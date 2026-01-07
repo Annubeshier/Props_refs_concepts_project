@@ -95,7 +95,6 @@ const RefProps = () => {
                 <li>Triggering imperative animations.</li>
                 <li>Integrating with third-party DOM libraries.</li>
             </ul>
-
         </div>
       </div>
     </section>
